@@ -1,0 +1,7 @@
+This is first line added in Git.
+
+This line is added from master branch.
+
+This line is added after file name change from
+
+Newfile.txt to Masterfile.txt. Lets see.
